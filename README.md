@@ -1,4 +1,4 @@
-# Crown-and-Dagger---RPG
+# Crown and Dagger RPG
 
 # Description 
 * platformer game
